@@ -1,7 +1,7 @@
 if exists('g:loaded_sysout')
 	finish
 else
-	let g:loaed_sysout = 'yes'
+	let g:loaded_sysout = 'yes'
 endif
 
 let g:sysout_below_map = '<leader>o'
